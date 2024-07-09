@@ -1,0 +1,73 @@
+.noto-sans-thin {
+	font-family: "Noto Sans KR", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 100;
+	font-style: normal;
+}
+
+.noto-sans-light {
+	font-family: "Noto Sans KR", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 300;
+	font-style: normal;
+}
+
+.noto-sans-Regular {
+	font-family: "Noto Sans KR", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.noto-sans-Medium {
+	font-family: "Noto Sans KR", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+}
+
+.noto-sans-semibold {
+	font-family: "Noto Sans KR", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+}
+
+.noto-sans-ExtraBold {
+	font-family: "Noto Sans KR", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "seolleimcool-SemiBold";
+	src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2312-1@1.1/seolleimcool-SemiBold.woff2")
+		format("woff2");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "SBAggroB";
+	src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SBAggroB.woff")
+		format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.title {
+	font-family: "SBAggroB", sans-serif;
+}
+
+@font-face {
+	font-family: "HakgyoansimWoojuR";
+	src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/HakgyoansimWoojuR.woff2")
+		format("woff2");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.content-font {
+	font-family: "HakgyoansimWoojuR", sans-serif;
+}
